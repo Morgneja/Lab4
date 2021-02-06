@@ -9,7 +9,7 @@ import java.util.Scanner;
 class Main {
   
   public static void main(String[] args) {
-    Scanner S = new Scanner(System.in);
+  
     Random r = new Random();
        int randomNum = r.nextInt(51) + 0;
       
